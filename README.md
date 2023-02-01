@@ -15,3 +15,5 @@ And a total of 27,558 images.This Dataset is taken from the official NIH Website
 5. **ViT Model**
 
 
+# Paper Publication
+https://ieeexplore.ieee.org/document/9972167
